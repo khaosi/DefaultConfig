@@ -1,0 +1,10 @@
+{
+    "files.encoding": "gb2312",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "C_Cpp.dimInactiveRegions": true,
+    "C_Cpp.inactiveRegionBackgroundColor": null,
+    "C_Cpp.inactiveRegionForegroundColor": "#808080",
+    "C_Cpp.inactiveRegionOpacity": 0.5,
+    
+}
