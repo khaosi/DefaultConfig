@@ -1,10 +1,27 @@
 {
-    "files.encoding": "gb2312",
-    "workbench.iconTheme": "material-icon-theme",
-
-    "C_Cpp.dimInactiveRegions": true,
-    "C_Cpp.inactiveRegionBackgroundColor": null,
-    "C_Cpp.inactiveRegionForegroundColor": "#808080",
-    "C_Cpp.inactiveRegionOpacity": 0.5,
     
+    "workbench.iconTheme": "material-icon-theme",
+    "files.encoding": "gb2312",
+        // 函数名等颜色
+        "editor.tokenColorCustomizations":{
+            // "textMateRules": [
+            //     {
+            //         "scope":"",
+            //         "settings": {
+            //             "foreground": "#FF0000",
+            //             "fontStyle": "bold"
+            //         }
+            //     }
+            // ],//规则与样式
+            "functions": "#ff8000",//函数颜色
+            "strings": "#D69D85",//字符串颜色
+            "keywords": "#569CD6",//关键字颜色
+            "types": "#4EC9B0",//类型定义颜色
+            "variables": "#808000",//变量颜色
+            "numbers": "#b89626",//数字颜色
+            "comments": "#57A64A",//注释颜色
+        },
+        "TortoiseSVN.tortoiseSVNProcExePath": "D:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
+        "workbench.statusBar.feedback.visible": false,
+        
 }
