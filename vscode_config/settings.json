@@ -1,8 +1,9 @@
 {
     
     "workbench.iconTheme": "material-icon-theme",
-    "files.encoding": "gb2312",
-        // º¯ÊıÃûµÈÑÕÉ«
+    //   "files.encoding": "gb2312",
+      "files.encoding": "utf8",
+        // å‡½æ•°åç­‰é¢œè‰²
         "editor.tokenColorCustomizations":{
             // "textMateRules": [
             //     {
@@ -12,16 +13,29 @@
             //             "fontStyle": "bold"
             //         }
             //     }
-            // ],//¹æÔòÓëÑùÊ½
-            "functions": "#ff8000",//º¯ÊıÑÕÉ«
-            "strings": "#D69D85",//×Ö·û´®ÑÕÉ«
-            "keywords": "#569CD6",//¹Ø¼ü×ÖÑÕÉ«
-            "types": "#4EC9B0",//ÀàĞÍ¶¨ÒåÑÕÉ«
-            "variables": "#808000",//±äÁ¿ÑÕÉ«
-            "numbers": "#b89626",//Êı×ÖÑÕÉ«
-            "comments": "#57A64A",//×¢ÊÍÑÕÉ«
+            // ],//è§„åˆ™ä¸æ ·å¼
+            // "functions":"#2f92ff"
+            "functions": "#ff8000",//å‡½æ•°é¢œè‰²
+            "strings": "#D69D85",//å­—ç¬¦ä¸²é¢œè‰²
+            "keywords": "#569CD6",//å…³é”®å­—é¢œè‰²
+            "types": "#4EC9B0",//ç±»å‹å®šä¹‰é¢œè‰²
+            "variables": "#808000",//å˜é‡é¢œè‰²
+            "numbers": "#b89626",//æ•°å­—é¢œè‰²
+            "comments": "#57A64A",//æ³¨é‡Šé¢œè‰²
         },
         "TortoiseSVN.tortoiseSVNProcExePath": "D:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
-        "workbench.statusBar.feedback.visible": false,
-        
+        "gitProjectManager.baseProjectsFolders": [
+            "E:\\MyPri\\git\\Keep-learning",
+            "E:\\MyPri\\git\\Python",
+            "E:\\MyPri\\git\\SA",
+            "E:\\MyPri\\git\\DefaultConfig",
+            "E:\\SVN\\04\\P20Lé“¶è”è®¤è¯\\Trunk\\è½¯ä»¶\\ç»ˆç«¯å›ºä»¶\\å›½å¯†è®¤è¯\\å›ºä»¶å·¥ç¨‹\\MH1902",
+
+
+        ],
+        "git.Path": "D:\\Program Files\\Git\\cmd\\git.exe",
+        // "workbench.statusBar.feedback.visible": false,
+        "search.location": "panel",
+        "C_Cpp.updateChannel": "Insiders",
+        "markdown-pdf.executablePath": "C:\\Users\\gaoxing\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
 }
